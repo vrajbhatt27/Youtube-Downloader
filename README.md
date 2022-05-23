@@ -1,5 +1,12 @@
 # Youtube Downloader
 
+## Table of Contents
+
+- [Introduction](#Introduction)
+- [Video](#Video)
+
+## Introduction
+
 Youtube Downloader is a desktop application developed using python. There are many websites available that can download videos from youtube but there is always a risk  when using such webistes. To solve this problem of security and safely download the videos from youtube, this application is developed. The videos can be downloaded in different formats. Also there is an option to download only the audio available in the video. 
 
 For downloading any video following steps must be used:
